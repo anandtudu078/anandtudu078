@@ -1,3 +1,7 @@
+<table>
+<tr>
+<td valign="top">
+
 <pre>
 %@@@#==========++==--:-:-===*########%##%%%%###%%%
 %@@%+==========--:::..   ...:++=+*#%%%%%%%%#******
@@ -24,3 +28,21 @@
 ..  ....  .  ........:=**=-++=.                   
 ..... ..  .. ...............                      
 ...    .  .   .. .. ....      ..                ..</pre>
+
+</td>
+<td valign="top">
+
+## Hi, I'm Anand 👋
+
+I'm a Computer Science student with a strong interest in **AI & Machine Learning**, and I build full-stack applications end to end — from backend APIs to polished frontends.
+
+I enjoy turning ideas into working products and sharing what I learn along the way.
+
+- 🔭 Currently building real-world projects in Node.js, Express, and the MERN stack
+- 🌱 Deepening my skills in Machine Learning and data-driven applications
+- 💬 Always open to collaborating on interesting backend or AI projects
+- 📫 Reach me at anandtudu078@gmail.com
+
+</td>
+</tr>
+</table>

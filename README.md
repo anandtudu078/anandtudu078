@@ -1,5 +1,3 @@
-# 💫 About Me:
-
 <table>
 <tr>
 <td valign="middle" width="45%">
